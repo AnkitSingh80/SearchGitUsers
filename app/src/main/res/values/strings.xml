@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LifeCareApp</string>
+    <string name="error_no_internet">No internet</string>
+    <string name="user_search">Search</string>
+    <string name="user_visit_profile">Visit Profile</string>
+    <string name="no_result_found">No Result Found</string>
+    <string name="user_score">Score :</string>
+</resources>
